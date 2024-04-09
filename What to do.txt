@@ -1,0 +1,9 @@
+Physicochemical Properties of Protein Tertiary Structure
+
+
+Tasks to do:
+1. Read Dataset from UCI machine learning repository  
+2. Apply Data Pre processing  
+3. Apply minimum 3 classification/rergression models
+4. Apply Hyperparameter Tuning
+5. Compare the results
